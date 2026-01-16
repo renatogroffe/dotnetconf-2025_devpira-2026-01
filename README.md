@@ -24,3 +24,10 @@ _# Ainda usa Controllers? Construa APIs somente usando Minimal APIs no .NET!_
 Palestrante: **Márcio Nizzola (Microsoft MVP)**
 
 Tecnologias e tópicos abordados: **.NET 10, C#, ASP.NET Core, OpenAPI, Visual Studio...**
+
+_# Construindo uma carreira sólida em .NET!_
+
+Palestrante: **Beatriz Tavernaro (Gold Microsoft Learn Student Ambassador)**
+
+Tecnologias e tópicos abordados: **.NET 10, C#, ASP.NET Core, OpenAPI, Visual Studio...**
+
