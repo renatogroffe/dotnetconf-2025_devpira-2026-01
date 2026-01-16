@@ -17,5 +17,5 @@ _# MCPs + .NET 10: da implementação ao gerenciamento das integrações com IA_
 
 Palestrante: Renato Groffe (Microsoft MVP, Docker Captain, Grafana Champion, APISec U Ambassador, MTAC)
 
-Tecnologias e tópicos abordados: **.NET 10, MCP, Inteligência Artificial, Microsoft Foundry, Grafana, Grafana Tempo, Redis, Azure Redis Cache...**
+Tecnologias e tópicos abordados: **.NET 10, MCP, Inteligência Artificial, Visual Studio Code, Linux, Microsoft Foundry, Grafana, Grafana Tempo, Redis, Azure Redis Cache, PostgreSQL, Azure Monitor, Application Insights...**
 
