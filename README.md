@@ -13,7 +13,7 @@ Número de participantes: **30 pessoas**
 
 Apresentações/painéis que aconteceram durante o evento:
 
-_# MCPs + .NET 10: da implementação ao gerenciamento das integrações com IA_
+_# MCPs + .NET 10: da implementação ao gerenciamento das integrações com IA_
 
 Palestrante: Renato Groffe (Microsoft MVP, Docker Captain, Grafana Champion, APISec U Ambassador, MTAC)
 
