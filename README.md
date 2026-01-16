@@ -25,9 +25,9 @@ Palestrante: **Márcio Nizzola (Microsoft MVP)**
 
 Tecnologias e tópicos abordados: **.NET 10, C#, ASP.NET Core, OpenAPI, Visual Studio...**
 
-_# Construindo uma carreira sólida em .NET!_
+_# Construindo uma carreira sólida em .NET: mercado, estudo e hype_
 
 Palestrante: **Beatriz Tavernaro (Gold Microsoft Learn Student Ambassador)**
 
-Tecnologias e tópicos abordados: **.NET 10, C#, ASP.NET Core, OpenAPI, Visual Studio...**
+Tecnologias e tópicos abordados: **.NET, C#, ASP.NET Core, Visual Studio...**
 
