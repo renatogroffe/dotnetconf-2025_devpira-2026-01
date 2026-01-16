@@ -31,3 +31,7 @@ Palestrante: **Beatriz Tavernaro (Gold Microsoft Learn Student Ambassador)**
 
 Tecnologias e tópicos abordados: **.NET, C#, ASP.NET Core, Visual Studio...**
 
+---
+
+Acesse este [**link**](/img/) para visualizar todas as fotos das apresentações.
+
