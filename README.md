@@ -43,5 +43,8 @@ Deixamos aqui nossos agradecimentos ao Victor Temple e à Larissa Cyganski pela 
 
 ---
 
+![Banner Renato Groffe](img/banner-renato.jpg)
 
+![Banner Márcio Nizzola](img/banner-nizzola.jpg)
 
+![Banner Betriz Tavernaro](img/banner-beatriz.jpg)
