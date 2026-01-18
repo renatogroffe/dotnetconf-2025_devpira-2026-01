@@ -43,6 +43,14 @@ Deixamos aqui nossos agradecimentos à **Profa. Thalita Moschini Cavalcanti Terr
 
 ---
 
+![Renato palestrando 1](img/renato-03.jpeg)
+
+![Renato palestrando 2](img/renato-12.jpg)
+
+![Renato palestrando 3](img/renato-06.jpeg)
+
+
+
 ![Banner Renato Groffe](img/banner-renato.jpg)
 
 ![Banner Márcio Nizzola](img/banner-nizzola.jpg)
