@@ -35,3 +35,13 @@ Tecnologias e tópicos abordados: **.NET, C#, ASP.NET Core, Visual Studio...**
 
 Acesse este [**link**](/img/) para visualizar todas as fotos das apresentações.
 
+Formulário utilizado para inscrições: [**Eventiza**](https://eventiza.com.br/evento/net-conf-2025-devpira)
+
+Local: **Faculdade Anhanguera - Rua Santa Catarina, 1005 - Vila Gertrudes - Piracicaba-SP - CEP: 04705-000**
+
+Deixamos aqui nossos agradecimentos ao Victor Temple e à Larissa Cyganski pela oportunidade e todo o apoio para promovermos esta edição local do .NET Conf no Microsoft Reactor em São Paulo-SP.
+
+---
+
+
+
