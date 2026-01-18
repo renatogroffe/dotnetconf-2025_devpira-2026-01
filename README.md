@@ -39,7 +39,7 @@ Formulário utilizado para inscrições: [**Eventiza**](https://eventiza.com.br/
 
 Local: **Faculdade Anhanguera - Rua Santa Catarina, 1005 - Vila Gertrudes - Piracicaba-SP - CEP: 04705-000**
 
-Deixamos aqui nossos agradecimentos ao Victor Temple e à Larissa Cyganski pela oportunidade e todo o apoio para promovermos esta edição local do .NET Conf no Microsoft Reactor em São Paulo-SP.
+Deixamos aqui nossos agradecimentos à **Profa. Thalita Moschini Cavalcanti Terrini (Faculdade Anhanguera)** pela oportunidade e todo o apoio para promovermos esta edição local do .NET Conf em Piracicaba-SP.
 
 ---
 
