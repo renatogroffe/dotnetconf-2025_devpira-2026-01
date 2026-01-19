@@ -77,8 +77,36 @@ Deixamos aqui nossos agradecimentos à **Profa. Thalita Moschini Cavalcanti Terr
 
 ![Painel 3](img/qa-04.jpg)
 
+![Geral 1](img/geral-09.jpg)
+
+![Geral 2](img/geral-21.jpg)
+
+![Geral 3](img/geral-23.jpg)
+
+![Geral 4](img/geral-05.jpg)
+
 ![Banner Renato Groffe](img/banner-renato.jpg)
 
 ![Banner Márcio Nizzola](img/banner-nizzola.jpg)
 
 ![Banner Betriz Tavernaro](img/banner-beatriz.jpg)
+
+![Feedback 1](img/feedback-01.png)
+
+![Feedback 2](img/feedback-02.png)
+
+![Feedback 3](img/feedback-03.png)
+
+![Feedback 4](img/feedback-04.png)
+
+![Feedback 5](img/feedback-05.png)
+
+![Feedback 6](img/feedback-06.png)
+
+![Feedback 7](img/feedback-07.png)
+
+![Feedback 8](img/feedback-08.png)
+
+![Feedback 9](img/feedback-09.png)
+
+![Feedback 10](img/feedback-10.png)
