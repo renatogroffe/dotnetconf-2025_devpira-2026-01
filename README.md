@@ -31,6 +31,16 @@ Palestrante: **Beatriz Tavernaro (Gold Microsoft Learn Student Ambassador)**
 
 Tecnologias e tópicos abordados: **.NET, C#, ASP.NET Core, Visual Studio...**
 
+_# Painel: Dúvidas sobre a Carreira em Desenvolvimento de Software: tecnologias em alta, o que estudar, dicas para atualização na carreira..._
+
+Participantes:
+- **Alexandre Ballestero de Paula (DEVPIRA)**
+- **Renato Groffe (Microsoft MVP, Docker Captain, Grafana Champion, APISec U Ambassador, MTAC)**
+- **Márcio Nizzola (Microsoft MVP)**
+- **Beatriz Tavernaro (Gold Microsoft Learn Student Ambassador)**
+
+Tecnologias e tópicos abordados: **.NET, C#, ASP.NET Core, Visual Studio...**
+
 ---
 
 Acesse este [**link**](/img/) para visualizar todas as fotos das apresentações.
