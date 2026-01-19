@@ -49,7 +49,7 @@ Formulário utilizado para inscrições: [**Eventiza**](https://eventiza.com.br/
 
 Local: **Faculdade Anhanguera - Rua Santa Catarina, 1005 - Vila Gertrudes - Piracicaba-SP - CEP: 04705-000**
 
-Deixamos aqui nossos agradecimentos à **Profa. Thalita Moschini Cavalcanti Terrini (Faculdade Anhanguera)** pela oportunidade e todo o apoio para promovermos esta edição local do .NET Conf em Piracicaba-SP.
+Deixamos aqui nossos agradecimentos à **Profa. Thalita Moschini Cavalcanti Terrini (Faculdade Anhanguera)** pela oportunidade e todo o apoio para promovermos esta edição local do .NET Conf em Piracicaba-SP. E também nosso muito obrigado ao **André Baltieri (Microsoft MVP, Balta.io) e ao Gregory Buso (Balta.io)** por todo o auxílio patrocinando o evento.
 
 ---
 
@@ -71,8 +71,11 @@ Deixamos aqui nossos agradecimentos à **Profa. Thalita Moschini Cavalcanti Terr
 
 ![Beatriz palestrando 3](img/beatriz-10.jpeg)
 
+![Painel 1](img/qa-02.jpg)
 
+![Painel 2](img/qa-03.jpg)
 
+![Painel 3](img/qa-04.jpg)
 
 ![Banner Renato Groffe](img/banner-renato.jpg)
 
