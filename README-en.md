@@ -39,7 +39,7 @@ Participants:
 - **Márcio Nizzola (Microsoft MVP)**
 - **Beatriz Tavernaro (Gold Microsoft Learn Student Ambassador)**
 
-Technologies and topics covered: **.NET, C#, ASP.NET Core, Artificial Intelligence, International Career, Cloud Computing...**
+Technologies and topics covered: **.NET, C#, ASP.NET Core, Visual Studio Code, Artificial Intelligence, International Career, Cloud Computing...**
 
 ---
 
