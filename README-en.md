@@ -17,7 +17,7 @@ _# MCPs + .NET 10: from implementation to managing integrations with AI_
 
 Speaker: **Renato Groffe (Microsoft MVP, Docker Captain, Grafana Champion, APISec U Ambassador, MTAC)**
 
-Technologies and topics covered: **.NET 10, C#, MCP, Artificial Intelligence, Visual Studio Code, Linux, Microsoft Azure, Azure API Management, Microsoft Foundry, Grafana, Grafana Tempo, Docker, Docker Compose, Azure Container Apps, Redis, Azure Redis Cache, PostgreSQL, Azure Monitor, Application Insights...**
+Technologies and topics covered: **.NET 10, C#, MCP, Artificial Intelligence, Visual Studio Code, Linux, Microsoft Azure, Azure API Management, Microsoft Foundry, Grafana, Grafana Tempo, Grafana k6, Azure DevOps, Azure Pipelines, Docker, Docker Compose, Azure Container Apps, Redis, Azure Redis Cache, PostgreSQL, Azure Monitor, Application Insights...**
 
 _# Still using Controllers? Build APIs using only Minimal APIs in .NET!_
 
